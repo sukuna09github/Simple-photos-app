@@ -60,5 +60,3 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 - Implement user authentication for secure access.
 - Enable cloud storage for scalability.
 - Improve frontend UI for a better user experience.
-
-This documentation provides an overview of the project and how it functions. Let me know if you need further details! 🚀
